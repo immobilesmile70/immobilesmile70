@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="(https://raw.githubusercontent.com/immobilesmile70/immobilesmile70/main/Looping%20Circuits.gif)" width="600">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/immobilesmile70/immobilesmile70/main/Looping%20Circuits.gif" width="600">
+</div>
 
 # Hi there 👋  
 
