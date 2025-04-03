@@ -1,3 +1,5 @@
+![Recurring Circuits](https://raw.githubusercontent.com/immobilesmile70/immobilesmile70/main/Looping%20Circuits.gif)
+
 # Hi there 👋  
 
 🚀 **Frontend Developer | UI/UX Designer | Web Enthusiast | Game Developer**    
