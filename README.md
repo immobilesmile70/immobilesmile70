@@ -28,7 +28,7 @@ I enjoy **cloning real-world UI interfaces** on the web and optimizing them for 
 🚀 **[Windows 12 Web]([GitHub Repo Link](https://github.com/immobilesmile70/Windows-12-web))**  
 🖥️ **Live Demo:** (https://windows-12-web.vercel.app/)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=immobilesmile70&show_icons=true&theme=radical)  
 
 ⭐ **Check out my repositories & give a star!** ⭐  
 
