@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://raw.githubusercontent.com/immobilesmile70/immobilesmile70/main/Looping%20Circuits.gif)" style="border-radius: 7px;" width="600">
+  <img src="(https://raw.githubusercontent.com/immobilesmile70/immobilesmile70/main/Looping%20Circuits.gif)" width="600">
 </p>
 
 # Hi there 👋  
