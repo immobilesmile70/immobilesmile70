@@ -4,7 +4,7 @@
 
 # Hi there 👋  
 
-🚀 **Frontend Developer | UI/UX Designer | Web Enthusiast | Game Developer**    
+**Frontend Developer | UI/UX Designer | Web Enthusiast | Game Developer**    
 
 ---
 
