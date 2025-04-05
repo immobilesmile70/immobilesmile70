@@ -22,6 +22,7 @@
 
 ## 📫 How to reach me 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/immobilesmile70) 
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Exciting-Sherbert147)
 
 ## ⚡ Fun fact  
 I enjoy **cloning real-world UI interfaces** on the web and optimizing them for a smooth experience!  
