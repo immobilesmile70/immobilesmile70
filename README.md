@@ -31,10 +31,10 @@
 ---
 
 ## 📌 Featured Projects
-🚀 **![Windows 12 Web](https://raw.githubusercontent.com/immobilesmile70/Windows-12-web/main/assets/favicon.ico)Windows 12 Web([GitHub Repo Link](https://github.com/immobilesmile70/Windows-12-web))**  
+🚀 <img src="https://raw.githubusercontent.com/immobilesmile70/Windows-12-web/main/assets/favicon.ico" alt="Windows 12 Web" style="height: 1em; vertical-align: text-bottom;"> **Windows 12 Web([GitHub Repo Link](https://github.com/immobilesmile70/Windows-12-web))**  
 🖥️ **Live Demo: ([Website Link](https://windows-12-web.vercel.app/))**  
 
-🎯 **![UpGrind](https://raw.githubusercontent.com/immobilesmile70/XP-Counter/main/assets/upgrind%20logo.ico)UpGrind - W.I.P.([GitHub Repo Link](https://github.com/immobilesmile70/xp-counter))**  
+🎯 <img src="https://raw.githubusercontent.com/immobilesmile70/XP-Counter/main/assets/upgrind%20logo.ico" alt="UpGrind" style="height: 1em; vertical-align: text-bottom;"> **UpGrind - W.I.P.([GitHub Repo Link](https://github.com/immobilesmile70/xp-counter))**
 🖥️ **Live Demo: ([Website Link](https://upgrind.vercel.app/))** 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=immobilesmile70&show_icons=true&theme=radical)  
