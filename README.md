@@ -6,8 +6,8 @@
 Didn't wanna generate boilerplate and didn't have time to write a full readme so this is it! ;D
 
 ## How to reach me 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/immobilesmile70) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beastgamer985)
+[![Reddit](https://img.shields.io/badge/Reddit-E4405F?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/beastdora)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beastdora)
 
 ## Featured Projects
 <img src="https://raw.githubusercontent.com/immobilesmile70/Windows-12-web/main/assets/favicon.ico" alt="Windows 12 Web" style="height: 1em; vertical-align: text-bottom;"> **Windows 12 Web([GitHub Repo Link](https://github.com/immobilesmile70/Windows-12-web)) 🖥️ Live Demo: ([Website Link](https://windows-12-web.vercel.app/))**  
