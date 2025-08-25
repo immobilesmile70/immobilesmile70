@@ -6,7 +6,7 @@
 Didn't wanna generate boilerplate and didn't have time to write a full readme so this is it! ;D
 
 ## How to reach me 
-[![Reddit](https://img.shields.io/badge/Reddit-E4405F?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/beastdora)
+[![Reddit](https://img.shields.io/badge/Reddit-E4405F?style=for-the-badge&logo=reddit&logoColor=orange)](https://www.reddit.com/user/beastdora)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beastdora)
 
 ## Featured Projects
