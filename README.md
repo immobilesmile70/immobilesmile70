@@ -3,20 +3,13 @@
 ## Tech Stack
 
 ### Front-End  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,threejs&perline=6" height="40" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,threejs&perline=6" height="40" />
 
 ### Back-End & Dev Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,visualstudio&perline=5" height="40" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,visualstudio&perline=5" height="40" />
 
 ### Platforms & Engines  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,gcp,firebase,unity,blender,cs&perline=6" height="40" />
-</p>
-
+<img src="https://skillicons.dev/icons?i=vercel,gcp,firebase,unity,blender,cs&perline=6" height="40" />
 
 ## Featured Projects
 
@@ -34,4 +27,4 @@
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=immobilesmile70&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=immobilesmile70&show_icons=true&theme=tokyonight)  
