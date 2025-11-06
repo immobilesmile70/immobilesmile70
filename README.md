@@ -7,11 +7,21 @@ Didn't wanna generate boilerplate and didn't have time to write a full readme so
 
 ## Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,tsvscode,nodejs,gcp,firebase,unity,nosql" />
-  </a>
+### Front-End  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,threejs&perline=6" height="40" />
 </p>
+
+### Back-End & Dev Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,visualstudio&perline=5" height="40" />
+</p>
+
+### Platforms & Engines  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gcp,firebase,unity,blender,cs&perline=5" height="40" />
+</p>
+
 
 ## Featured Projects
 
