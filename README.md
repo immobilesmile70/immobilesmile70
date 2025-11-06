@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e00c2,100:0e5dff&height=160&section=header&text=Hey,%20I'm%20RickByte!&fontSize=60&animation=fadeIn" />
 
-
 ## Tech Stack
 
 ### Front-End  
@@ -33,7 +32,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beastdora)
 [![X/Twitter](https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://www.x.com/beastdora985)
 
+## My GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=immobilesmile70&show_icons=true&theme=radical)  
-
-⭐ **Check out my repositories!** ⭐  (Although my actual repository for upgrind is private)
-
