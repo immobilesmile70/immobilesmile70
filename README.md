@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:c244f4&height=160&section=header&text=RickByte&fontSize=60&fontColor=ebebeb&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:c244f4&height=160&section=header&text=RickByte&fontSize=60&fontColor=afafafb&animation=twinkling" />
 
 ## Stack
 
