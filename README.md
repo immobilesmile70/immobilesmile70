@@ -12,15 +12,15 @@ Didn't wanna generate boilerplate and didn't have time to write a full readme so
 
 ## Featured Projects
 
-#### Windows 12 Web  
-[![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/immobilesmile70/Windows-12-web)
-[![Live](https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge&logo=vercel)](https://windows-12-web.vercel.app/)
+- <img src="https://raw.githubusercontent.com/immobilesmile70/Windows-12-web/main/assets/favicon.ico" height="18"> **Windows 12 Web**  
+  [Repo](https://github.com/immobilesmile70/Windows-12-web) • [Live](https://windows-12-web.vercel.app/)
 
-#### UpGrind  
-[![Live](https://img.shields.io/badge/Public%20Beta-green?style=for-the-badge)](https://upgrind.vercel.app/)
+- <img src="https://upgrind.vercel.app/static/images/favicon.ico" height="18"> **UpGrind**  
+  [Live](https://upgrind.vercel.app/) • Public Beta
 
-#### Bytab  
-[![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/immobilesmile70/Bytab)
+- <img src="https://www.dropbox.com/scl/fi/i5xxnkiw3yi08tunjika0/bytab-logo.png?rlkey=wchaurlc6z8ob2xo1k9jdw460&st=5ayy4bxl&raw=1" height="18"> **Bytab**  
+  [Repo](https://github.com/immobilesmile70/Bytab)
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=immobilesmile70&show_icons=true&theme=radical)  
