@@ -19,7 +19,7 @@ Didn't wanna generate boilerplate and didn't have time to write a full readme so
 
 ### Platforms & Engines  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,firebase,unity,blender,cs&perline=5" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel,gcp,firebase,unity,blender,cs&perline=5" height="40" />
 </p>
 
 
