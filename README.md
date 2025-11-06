@@ -5,10 +5,16 @@
 # Umm
 Didn't wanna generate boilerplate and didn't have time to write a full readme so this is it! ;D
 
-## How to reach me 
-[![Reddit](https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/beastdora)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beastdora)
-[![X/Twitter](https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://www.x.com/beastdora985)
+## Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+</p>
 
 ## Featured Projects
 
@@ -18,8 +24,11 @@ Didn't wanna generate boilerplate and didn't have time to write a full readme so
 | <img src="https://upgrind.vercel.app/static/images/favicon.ico" height="20"> **UpGrind** | [![Live](https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://upgrind.vercel.app/) | Productivity app with timers, XP system, tasks, notes, and AI. Currently in public beta. |
 | <img src="https://www.dropbox.com/scl/fi/i5xxnkiw3yi08tunjika0/bytab-logo.png?rlkey=wchaurlc6z8ob2xo1k9jdw460&st=5ayy4bxl&raw=1" height="20"> **Bytab** | [![Repo](https://img.shields.io/badge/Repo-212d37?style=for-the-badge&logo=github&logoColor=white)](https://github.com/immobilesmile70/Bytab) | Minimalistic new tab page extension for chromium based browsers. |
 
+## How to reach me 
 
-
+[![Reddit](https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/beastdora)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beastdora)
+[![X/Twitter](https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://www.x.com/beastdora985)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=immobilesmile70&show_icons=true&theme=radical)  
 
