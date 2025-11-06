@@ -14,9 +14,9 @@ Didn't wanna generate boilerplate and didn't have time to write a full readme so
 
 | Project | Links | Description |
 |--------|--------|-------------|
-| <img src="https://raw.githubusercontent.com/immobilesmile70/Windows-12-web/main/assets/favicon.ico" height="20"> **Windows 12 Web** | [![Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/immobilesmile70/Windows-12-web) <br> [![Live](https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white) | A full Windows 12 UI simulation; interactive desktop, apps, animations, and system-like behavior. |
+| <img src="https://raw.githubusercontent.com/immobilesmile70/Windows-12-web/main/assets/favicon.ico" height="20"> **Windows 12 Web** | [![Repo](https://img.shields.io/badge/Repo-425161?style=for-the-badge&logo=github&logoColor=white)](https://github.com/immobilesmile70/Windows-12-web) <br> [![Live](https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://windows-12-web.vercel.app/) | A full Windows 12 UI simulation; interactive desktop, apps, animations, and system-like behavior. |
 | <img src="https://upgrind.vercel.app/static/images/favicon.ico" height="20"> **UpGrind** | [![Live](https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://upgrind.vercel.app/) | Productivity app with timers, XP system, tasks, notes, and AI. Currently in public beta. |
-| <img src="https://www.dropbox.com/scl/fi/i5xxnkiw3yi08tunjika0/bytab-logo.png?rlkey=wchaurlc6z8ob2xo1k9jdw460&st=5ayy4bxl&raw=1" height="20"> **Bytab** | [![Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/immobilesmile70/Bytab) | Minimalistic new tab page extension for chromium based browsers. |
+| <img src="https://www.dropbox.com/scl/fi/i5xxnkiw3yi08tunjika0/bytab-logo.png?rlkey=wchaurlc6z8ob2xo1k9jdw460&st=5ayy4bxl&raw=1" height="20"> **Bytab** | [![Repo](https://img.shields.io/badge/Repo-425161?style=for-the-badge&logo=github&logoColor=white)](https://github.com/immobilesmile70/Bytab) | Minimalistic new tab page extension for chromium based browsers. |
 
 
 
