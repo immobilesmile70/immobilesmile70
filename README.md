@@ -1,10 +1,3 @@
-<!--div align="center">
-  <img src="https://raw.githubusercontent.com/immobilesmile70/immobilesmile70/main/Looping%20Circuits.gif" width="600">
-</div -->
-
-# Umm
-Didn't wanna generate boilerplate and didn't have time to write a full readme so this is it! ;D
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e00c2,100:0e5dff&height=160&section=header&text=Hey,%20I'm%20RickByte!&fontSize=60&animation=fadeIn" />
 
 
