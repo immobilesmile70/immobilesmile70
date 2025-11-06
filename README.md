@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e00c2,100:0e5dff&height=160&section=header&text=Hey,%20I'm%20RickByte!&fontSize=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:bd63ff&height=160&section=header&text=Hey,%20I%27m%20RickByte!&fontSize=60&animation=fadeIn" />
 
 ## Tech Stack
 
