@@ -21,10 +21,9 @@
 
 ## Connect 
 
-[![Reddit](https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/beastdora)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beastdora)
 [![X/Twitter](https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://www.x.com/beastdora985)
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=immobilesmile70&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://dora-readme-stats.vercel.app/api?username=immobilesmile70&show_icons=true&theme=tokyonight)  
