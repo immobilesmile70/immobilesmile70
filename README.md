@@ -26,4 +26,4 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://dora-readme-stats.vercel.app/api?username=immobilesmile70&show_icons=true)  
+![GitHub Stats](https://dora-readme-stats.vercel.app/api?username=immobilesmile70&show_icons=true&theme=tokyonight&v=1)  
